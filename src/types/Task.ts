@@ -21,12 +21,3 @@ export interface TaskStats {
     procrastinationTrend: number;
     productivityScore: number;
 }
-
-export interface CalendarEvent {
-    id: string;
-    title: string;
-    date: string;
-    time: string;
-    type: 'task' | 'deadline' | 'exam';
-    priority: string;
-}

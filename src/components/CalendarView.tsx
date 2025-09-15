@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import type { Task, CalendarEvent } from '../types/Task';
+import type { Task } from '../types/Task';
 import Icon from './Icon';
 
 interface CalendarViewProps {
