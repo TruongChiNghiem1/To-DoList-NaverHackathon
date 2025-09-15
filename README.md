@@ -12,7 +12,7 @@
 - Open browser: `http://localhost:5173`
 
 ## 🔗 Deployed Web URL or APK file
-**Live Demo:** [Deploy URL will be added here]
+**Live Demo:** [https://to-do-list-naver-hackathon.vercel.app](https://to-do-list-naver-hackathon.vercel.app)
 
 ## 🎥 Demo Video
 **Demo video link (≤ 2 minutes):**  
